@@ -19,3 +19,6 @@ python3 tracker.py
 # Launch real-time telemetry console
 python3 flight_station.py
 ```
+
+## Orbital Ground Track Visualization
+![ISS Orbit Track](iss_orbit_track.png)
